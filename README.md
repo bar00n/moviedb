@@ -1,2 +1,2 @@
-# moviedb searchh engine with ReactJS
+# moviedb search engine with ReactJS
  
