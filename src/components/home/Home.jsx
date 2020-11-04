@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import SearchMovies from '../home/Search';
 import {
   fetchMovies,
   fetchGenre,
@@ -142,8 +141,7 @@ export function Home() {
 
   return (
     <>
-    <SearchMovies/> 
-    
+
     <div className="container">
       <div className="row mt-2">
         <div className="col">
